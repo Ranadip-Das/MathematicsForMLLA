@@ -1,2 +1,2 @@
 # MathematicsForMLLA
- Programming assignment answers for Mathematics For Machine Learning:Linear Algebra 
+ Programming assignment answers for Mathematics For Machine Learning: Linear Algebra 
